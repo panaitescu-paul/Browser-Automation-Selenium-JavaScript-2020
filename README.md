@@ -9,9 +9,7 @@ Automatically test the UI elements in browser, using ***Selenium WebDriver***. F
 - Selenium WebDriver - automation framework
 
 ## Preview:
-<p align="center">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Browser-Automation-Selenium-2020/blob/master/screenshots/s1.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Browser-Automation-Selenium-2020/blob/master/screenshots/s2.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Browser-Automation-Selenium-2020/blob/master/screenshots/s3.png">
-  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Browser-Automation-Selenium-2020/blob/master/screenshots/s4.png">
-</p>
+![alt text](https://github.com/panaitescu-paul/Browser-Automation-Selenium-2020/blob/master/screenshots/s1.png)
+![alt text](https://github.com/panaitescu-paul/Browser-Automation-Selenium-2020/blob/master/screenshots/s2.png)
+![alt text](https://github.com/panaitescu-paul/Browser-Automation-Selenium-2020/blob/master/screenshots/s3.png)
+![alt text](https://github.com/panaitescu-paul/Browser-Automation-Selenium-2020/blob/master/screenshots/s4.png)
