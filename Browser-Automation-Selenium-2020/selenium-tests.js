@@ -39,7 +39,7 @@ describe('Test the KeaNET Website', () => {
         it('should open the index.html file', async () => {
             await driver.sleep(sleepTime);
             // Change the File Path, to point to the index file
-            await driver.get('file:////Users/paul/Downloads/Testing - Selenium exercise [23.APR.2020]/index.html');
+            await driver.get('file:////Users/paul/Downloads/Browser-Automation-Selenium-2020/index.html');
         });
         it('should check the Page Title', async () => {
             await driver.sleep(sleepTime);
