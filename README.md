@@ -1,4 +1,4 @@
-# Browser Automation Selenium - 2020
+# Browser Automation - Selenium - JavaScript - 2020
 
 Automatically test the UI elements in browser, using ***Selenium WebDriver***. From pressing buttons, selecting options, to reading the content in an alert.
 
